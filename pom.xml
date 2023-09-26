@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.tibudget</groupId>
     <artifactId>tibudget-poc-api</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>ti'Budget POC API</name>
@@ -21,7 +21,7 @@
         <connection>scm:git:${project.scm.url}</connection>
         <developerConnection>scm:git:${project.scm.url}</developerConnection>
         <url>git@github.com:tibudget/tibudget-poc-api.git</url>
-        <tag>tibudget-poc-api-1.0</tag>
+        <tag>tibudget-poc-api-1.1</tag>
     </scm>
 
     <distributionManagement>
